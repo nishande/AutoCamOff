@@ -1,0 +1,22 @@
+{
+    "manifest_version": 2,
+    "name": "AutoCamOff-For Google Meet",
+    "version": "1.5",
+    "description": "Automatically mutes microphone and disables camera before joining a Google Meet.",
+    "permissions": ["tabs"],
+    "content_scripts": [
+      {
+        "matches": ["*://meet.google.com/*"],
+        "js": ["content.js"]
+      }
+    ],
+    "icons": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    },
+    "browser_action": {
+      "default_icon": "icon16.png"
+    }
+  }
+  
