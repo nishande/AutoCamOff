@@ -18,9 +18,16 @@ Say goodbye to awkward moments, accidental audio interruptions, and unexpected v
 Description: This section provides an overview of the functionalities implemented in the MeetCamOff extension for Google Chrome, highlighting the key features that enhance privacy and control during Google Meet sessions.
 
 "waitForElement": Dynamic Element Detection
+
 "toggleButtonState": Button State Management
+
 "disableJoinButton": Join Button Disabling
+
 "enableJoinButton": Join Button Enabling
+
 "autoMuteAndCameraOff": Automated Mic and Camera Control
+
 "window.addEventListener('load', ...)": Load Event Handling
-These functionalities collectively contribute to the smooth operation of MeetCamOff, enabling automatic camera and microphone management for a seamless and secure Google Meet experience.
+
+
+**These functionalities collectively contribute to the smooth operation of MeetCamOff, enabling automatic camera and microphone management for a seamless and secure Google Meet experience.**
