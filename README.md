@@ -32,24 +32,27 @@ Description: This section provides an overview of the functionalities implemente
 
 **These functionalities collectively contribute to the smooth operation of MeetCamOff, enabling automatic camera and microphone management for a seamless and secure Google Meet experience.**
 
-MeetCamOff Chrome Extension
-Download and Installation
+**MeetCamOff Chrome Extension
+Download and Installation**
+
 Download:
 
-Select "Download ZIP" to download the extension.
-Save the zip file to a familiar location on your computer.
+1) Select "Download ZIP" to download the extension.
+2) Save the zip file to a familiar location on your computer.
+
 Extract:
 
-Locate the downloaded zip file on your computer.
-Right-click on the zip file and select "Extract" or "Extract All."
-Choose a destination folder to extract the contents of the zip file.
-Wait for the extraction process to complete.
+1) Locate the downloaded zip file on your computer.
+2) Right-click on the zip file and select "Extract" or "Extract All."
+3) Choose a destination folder to extract the contents of the zip file.
+4) Wait for the extraction process to complete.
+
 Install in Google Chrome:
 
-Open the Google Chrome browser on your computer.
-In the address bar, type chrome://extensions and press Enter.
-Enable the "Developer mode" toggle switch located in the top right corner.
-Click on the "Load unpacked" button.
-Navigate to the folder where you extracted the extension files.
-Select the folder and click "Open."
-The extension will be installed and ready to use.
+1) Open the Google Chrome browser on your computer.
+2) In the address bar, type chrome://extensions and press Enter.
+3) Enable the "Developer mode" toggle switch located in the top right corner.
+4) Click on the "Load unpacked" button.
+5) Navigate to the folder where you extracted the extension files.
+6) Select the folder and click "Open."
+7) The extension will be installed and ready to use.
